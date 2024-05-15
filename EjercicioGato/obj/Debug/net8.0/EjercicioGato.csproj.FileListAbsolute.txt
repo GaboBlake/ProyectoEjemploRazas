@@ -1,0 +1,14 @@
+C:\Users\gabri\OneDrive\Escritorio\POOII\Proyectos\EjercicioGato\bin\Debug\net8.0\EjercicioGato.exe
+C:\Users\gabri\OneDrive\Escritorio\POOII\Proyectos\EjercicioGato\bin\Debug\net8.0\EjercicioGato.deps.json
+C:\Users\gabri\OneDrive\Escritorio\POOII\Proyectos\EjercicioGato\bin\Debug\net8.0\EjercicioGato.runtimeconfig.json
+C:\Users\gabri\OneDrive\Escritorio\POOII\Proyectos\EjercicioGato\bin\Debug\net8.0\EjercicioGato.dll
+C:\Users\gabri\OneDrive\Escritorio\POOII\Proyectos\EjercicioGato\bin\Debug\net8.0\EjercicioGato.pdb
+C:\Users\gabri\OneDrive\Escritorio\POOII\Proyectos\EjercicioGato\obj\Debug\net8.0\EjercicioGato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Escritorio\POOII\Proyectos\EjercicioGato\obj\Debug\net8.0\EjercicioGato.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Escritorio\POOII\Proyectos\EjercicioGato\obj\Debug\net8.0\EjercicioGato.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Escritorio\POOII\Proyectos\EjercicioGato\obj\Debug\net8.0\EjercicioGato.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Escritorio\POOII\Proyectos\EjercicioGato\obj\Debug\net8.0\EjercicioGato.dll
+C:\Users\gabri\OneDrive\Escritorio\POOII\Proyectos\EjercicioGato\obj\Debug\net8.0\refint\EjercicioGato.dll
+C:\Users\gabri\OneDrive\Escritorio\POOII\Proyectos\EjercicioGato\obj\Debug\net8.0\EjercicioGato.pdb
+C:\Users\gabri\OneDrive\Escritorio\POOII\Proyectos\EjercicioGato\obj\Debug\net8.0\EjercicioGato.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Escritorio\POOII\Proyectos\EjercicioGato\obj\Debug\net8.0\ref\EjercicioGato.dll

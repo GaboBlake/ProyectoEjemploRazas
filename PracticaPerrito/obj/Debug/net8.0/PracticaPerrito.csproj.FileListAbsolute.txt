@@ -1,0 +1,14 @@
+C:\Users\gabri\OneDrive\Escritorio\POOII\Proyectos\PracticaPerrito\bin\Debug\net8.0\PracticaPerrito.exe
+C:\Users\gabri\OneDrive\Escritorio\POOII\Proyectos\PracticaPerrito\bin\Debug\net8.0\PracticaPerrito.deps.json
+C:\Users\gabri\OneDrive\Escritorio\POOII\Proyectos\PracticaPerrito\bin\Debug\net8.0\PracticaPerrito.runtimeconfig.json
+C:\Users\gabri\OneDrive\Escritorio\POOII\Proyectos\PracticaPerrito\bin\Debug\net8.0\PracticaPerrito.dll
+C:\Users\gabri\OneDrive\Escritorio\POOII\Proyectos\PracticaPerrito\bin\Debug\net8.0\PracticaPerrito.pdb
+C:\Users\gabri\OneDrive\Escritorio\POOII\Proyectos\PracticaPerrito\obj\Debug\net8.0\PracticaPerrito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Escritorio\POOII\Proyectos\PracticaPerrito\obj\Debug\net8.0\PracticaPerrito.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Escritorio\POOII\Proyectos\PracticaPerrito\obj\Debug\net8.0\PracticaPerrito.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Escritorio\POOII\Proyectos\PracticaPerrito\obj\Debug\net8.0\PracticaPerrito.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Escritorio\POOII\Proyectos\PracticaPerrito\obj\Debug\net8.0\PracticaPerrito.dll
+C:\Users\gabri\OneDrive\Escritorio\POOII\Proyectos\PracticaPerrito\obj\Debug\net8.0\refint\PracticaPerrito.dll
+C:\Users\gabri\OneDrive\Escritorio\POOII\Proyectos\PracticaPerrito\obj\Debug\net8.0\PracticaPerrito.pdb
+C:\Users\gabri\OneDrive\Escritorio\POOII\Proyectos\PracticaPerrito\obj\Debug\net8.0\PracticaPerrito.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Escritorio\POOII\Proyectos\PracticaPerrito\obj\Debug\net8.0\ref\PracticaPerrito.dll

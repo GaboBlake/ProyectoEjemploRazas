@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO1_Ejemplo", "POO1_Ejemplo\POO1_Ejemplo.csproj", "{161AACBB-02E6-45BB-AA8D-2C06FE0D6308}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaPerrito", "PracticaPerrito\PracticaPerrito.csproj", "{5C26EF70-4F06-4436-B2A8-87A890F72A3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioGato", "EjercicioGato\EjercicioGato.csproj", "{A3925E0F-9DD0-4AFF-896F-5D27B80C0267}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{161AACBB-02E6-45BB-AA8D-2C06FE0D6308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{161AACBB-02E6-45BB-AA8D-2C06FE0D6308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{161AACBB-02E6-45BB-AA8D-2C06FE0D6308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{161AACBB-02E6-45BB-AA8D-2C06FE0D6308}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C26EF70-4F06-4436-B2A8-87A890F72A3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C26EF70-4F06-4436-B2A8-87A890F72A3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C26EF70-4F06-4436-B2A8-87A890F72A3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C26EF70-4F06-4436-B2A8-87A890F72A3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3925E0F-9DD0-4AFF-896F-5D27B80C0267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3925E0F-9DD0-4AFF-896F-5D27B80C0267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3925E0F-9DD0-4AFF-896F-5D27B80C0267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3925E0F-9DD0-4AFF-896F-5D27B80C0267}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

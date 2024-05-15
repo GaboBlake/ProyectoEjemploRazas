@@ -1,0 +1,14 @@
+C:\Users\gabri\OneDrive\Escritorio\POOII\Proyectos\POO1_Ejemplo\bin\Debug\net8.0\POO1_Ejemplo.exe
+C:\Users\gabri\OneDrive\Escritorio\POOII\Proyectos\POO1_Ejemplo\bin\Debug\net8.0\POO1_Ejemplo.deps.json
+C:\Users\gabri\OneDrive\Escritorio\POOII\Proyectos\POO1_Ejemplo\bin\Debug\net8.0\POO1_Ejemplo.runtimeconfig.json
+C:\Users\gabri\OneDrive\Escritorio\POOII\Proyectos\POO1_Ejemplo\bin\Debug\net8.0\POO1_Ejemplo.dll
+C:\Users\gabri\OneDrive\Escritorio\POOII\Proyectos\POO1_Ejemplo\bin\Debug\net8.0\POO1_Ejemplo.pdb
+C:\Users\gabri\OneDrive\Escritorio\POOII\Proyectos\POO1_Ejemplo\obj\Debug\net8.0\POO1_Ejemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Escritorio\POOII\Proyectos\POO1_Ejemplo\obj\Debug\net8.0\POO1_Ejemplo.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Escritorio\POOII\Proyectos\POO1_Ejemplo\obj\Debug\net8.0\POO1_Ejemplo.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Escritorio\POOII\Proyectos\POO1_Ejemplo\obj\Debug\net8.0\POO1_Ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Escritorio\POOII\Proyectos\POO1_Ejemplo\obj\Debug\net8.0\POO1_Ejemplo.dll
+C:\Users\gabri\OneDrive\Escritorio\POOII\Proyectos\POO1_Ejemplo\obj\Debug\net8.0\refint\POO1_Ejemplo.dll
+C:\Users\gabri\OneDrive\Escritorio\POOII\Proyectos\POO1_Ejemplo\obj\Debug\net8.0\POO1_Ejemplo.pdb
+C:\Users\gabri\OneDrive\Escritorio\POOII\Proyectos\POO1_Ejemplo\obj\Debug\net8.0\POO1_Ejemplo.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Escritorio\POOII\Proyectos\POO1_Ejemplo\obj\Debug\net8.0\ref\POO1_Ejemplo.dll
